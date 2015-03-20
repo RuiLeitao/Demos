@@ -8,6 +8,7 @@ namespace ConsoleApplication
         {
             Console.WriteLine("Teste");
             var readLine = Console.ReadLine();
+            Console.WriteLine("Teste2");
         }
     }
 }
